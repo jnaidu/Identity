@@ -7,3 +7,5 @@ You can view and update your profile details, such as username, email address, p
 
 
 ##Steps
+1. Log into CIS. The home page appears.
+2. To view your available profile details, click the **My Profile** tab. The My Profile page appears.
