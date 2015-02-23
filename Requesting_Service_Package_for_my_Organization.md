@@ -10,6 +10,6 @@ Security Administrator
 3. Select the desired service package and click **Request**.
 ![](rspo-3.png)
 4. Review the details of the package you are requesting, enter the request reason and click Continue.
-
+![](rspo-4.png)
 
 
