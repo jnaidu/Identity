@@ -9,7 +9,7 @@ Security Administrator
 1. Log into CIS.
 2. Search for the suspended user.
 3. Under the **user status** section, click **Permanently Remove User**.
-
+![](ru-3.png)
 
 
 
