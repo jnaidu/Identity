@@ -10,7 +10,7 @@ Security Administrator.
 ![](2-4.png)
 5. Click **Submit Decision**    
 ![](1-5.png)
-## Result:
+## Result
 You have successfully submitted your decision.
 
 
