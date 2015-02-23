@@ -13,3 +13,6 @@ Security Administrator
 4. Enter an activation reason, and click the **Yes, Activate User** button.
 ![](uu-4.png)
 
+## Result
+You have successfully unsuspended the user.
+
