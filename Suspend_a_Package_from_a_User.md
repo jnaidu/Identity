@@ -15,3 +15,6 @@ This section depicts how to suspend a package from a user.
 ![](spu-5.png)
 6. Enter the reason for suspension, and click the **Continue** button.
 ![](spu-6.png)
+
+## Result
+You have successfully suspended the user’s access to the service package.
