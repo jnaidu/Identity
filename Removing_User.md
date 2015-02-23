@@ -10,7 +10,7 @@ Security Administrator
 2. Search for the suspended user.
 3. Under the **user status** section, click **Permanently Remove User**.
 ![](ru-3.png)
-4. Enter a removal reason and click Yes, Permanently Remove User. To notify the user of their removal, check the box at the bottom.
+4. Enter a removal reason and click **Yes, Permanently Remove User**. To notify the user of their removal, check the box at the bottom.
 
 
 
