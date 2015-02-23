@@ -15,3 +15,6 @@ Security Administrator
 ![](upu-5.png)
 6. Enter the unsuspension reason and click the **Continue** button.
 ![](upu-6.png)
+
+## Result
+You have successfully unsuspended the user’s access to the service package.
