@@ -17,3 +17,6 @@ If you remove a package at the organization level, the package grant for the use
 5. Enter the removal reason, and click the **Yes, Permanently Remove Service Package** button.
 ![](prpo-5.png)
 
+## Result
+You have successfully removed the package access for the organization.
+
