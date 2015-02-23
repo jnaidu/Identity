@@ -4,6 +4,7 @@
 1. Log into CIS.
 2. Click the Administration menu, select pending requests and then Organization requests.  
 ![](2-2.png)
+3. 
 
 
 
