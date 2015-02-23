@@ -14,3 +14,4 @@ This section illustrates how to view your pending requests once the request has 
 4.	You can also send a reminder to a security administrator to approve your request by clicking on the **Send Reminder** button.
 
 ##Result
+You were successfully able to view your pending request.
