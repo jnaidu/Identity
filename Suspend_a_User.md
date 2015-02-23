@@ -8,7 +8,7 @@ Security Administrator
 ## Steps
 1. Log in to CIS.
 2. Click the **Search** menu to search for a user.
-3. Under the **user status** section, click suspend user.
+3. Under the **user status** section, click **suspend user**.
 ![](su-3.png)
 4. Enter a suspension reason, and click the **Yes, Suspend User** button.
 
