@@ -13,5 +13,5 @@ If you suspend a package at the organization level, the package grant for the us
 ![](spo-2.png)
 3. Select the service package you wish to suspend.
 4. Under the **status** section, click the **suspend** button.
-
+![](spo-4.png)
 
