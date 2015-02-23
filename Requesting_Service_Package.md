@@ -8,7 +8,7 @@ A user with basic user role and above
 2. Click the My Profile menu.
 3. Click **Request a Service Package**.     
 ![](rs-3.png)
-4. 
+4. Select the desired service package by clicking the **Request** button.
 
 
 
