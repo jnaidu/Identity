@@ -9,6 +9,6 @@ A user with basic user role and above
 3. Click **Request a Service Package**.     
 ![](rs-3.png)
 4. Select the desired service package by clicking the **Request** button.
-
+![](rs-4.png)
 
 
