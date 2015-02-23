@@ -15,3 +15,4 @@ If you remove a package at the organization level, the package grant for the use
 4. Under the **service package status** section, click the **Permanently Remove Service Package** button.
 
 
+
