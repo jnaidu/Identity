@@ -11,5 +11,5 @@ Security Administrator
 3. Under the **user status** section, click the **Unsuspend User** button.
 ![](uu-3.png)
 4. Enter an activation reason, and click the **Yes, Activate User** button.
-
+![](uu-4.png)
 
