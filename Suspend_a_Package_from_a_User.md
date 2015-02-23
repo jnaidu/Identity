@@ -11,4 +11,5 @@ This section depicts how to suspend a package from a user.
 ![](spu-3.png)
 4. Select the service package you wish to suspend.
 ![](spu-4.png)
+5. Under the **service package status** section, click the **Suspend Service Package** button.
 
