@@ -11,3 +11,4 @@ This section illustrates how to view your pending requests once the request has 
 2.	Click the **My Profile** menu, and select **view my profile**.
 3.	Click **view pending requests**.
 ![](vpr-3.png)
+4.	You can also send a reminder to a security administrator to approve your request by clicking on the Send Reminder button.
