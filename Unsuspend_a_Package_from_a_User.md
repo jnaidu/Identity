@@ -10,3 +10,4 @@ Security Administrator
 3. Click the **view service packages** tab.
 ![](spu-3.png)
 4. Select the package that has been suspended.
+![](upu-4.png)
