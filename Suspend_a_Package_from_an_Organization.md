@@ -16,3 +16,6 @@ If you suspend a package at the organization level, the package grant for the us
 ![](spo-4.png)
 5. Enter the suspension reason, and click the **Yes, Proceed With Suspension** button.
 ![](spo-5.png)
+
+## Result
+You have successfully suspended the organization’s access to the service package. 
