@@ -4,4 +4,6 @@ You can view and update your profile details, such as username, email address, p
 ## Who can perform this function?
 * Basic user can only view and update their own profile.
 * Security Administrator can view and update other user’s profile.
+
+
 ##Steps
