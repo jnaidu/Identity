@@ -14,4 +14,5 @@
 * [Unsuspend a Package from a User](Unsuspend_a_Package_from_a_User.md)
 * [Suspend a User](Suspend_a_User.md)
 * [Unsuspend a User](Unsuspend_a_User.md)
+* [View Pending Requests](View_Pending_Requests.md)
 
