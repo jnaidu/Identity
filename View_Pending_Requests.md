@@ -7,3 +7,6 @@ This section illustrates how to view your pending requests once the request has 
 * Security Administrator can also view other user’s pending requests.
 
 ## Steps
+1.	Log into CIS.
+2.	Click the **My Profile** menu, and select **view my profile**.
+3.	Click **view pending requests**.
