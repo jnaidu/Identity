@@ -6,5 +6,8 @@ This section depicts how to suspend a user. Once you the user is suspended, they
 Security Administrator
 
 ## Steps
-1. 
+1. Log in to CIS.
+2. Click the Search menu to search for a user.
+3. Under user status section, click suspend user.
+
 
