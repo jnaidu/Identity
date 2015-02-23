@@ -8,7 +8,8 @@ Security Administrator
 2. Click the **My Organization** menu and select **Request a Service Package for my Organization**.
 ![](rspo-2.png)
 3. Select the desired service package and click **Request**.
-
+![](rspo-3.png)
+4. 
 
 
 
