@@ -10,5 +10,5 @@ If you remove a package at the organization level, the package grant for the use
 ## Steps
 1. Log in to CIS.
 2. Click the **My Organization** menu, and select **View my Organization Service Packages**.
-
+![](prpo-2.png)
 
