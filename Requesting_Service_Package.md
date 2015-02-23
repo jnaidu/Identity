@@ -4,5 +4,9 @@ This section illustrates how a user can request a service package. A user will o
 ## Who can perform this function?
 A user with basic user role and above
 ##Steps
+1. Log in to CIS.
+2. Click the My Profile menu.
+3. Click Request a Service Package.
+
 
 
