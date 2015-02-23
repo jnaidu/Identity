@@ -13,6 +13,8 @@ Security Administrator.
 ![](prpu-5.png)
 6. Enter the removal reason and click **Continue**. To notify the user, check the box at the bottom.
 ![](prpu-6.png)
+##Result
+You have successfully removed the user's access to the service package.
 
 
 
