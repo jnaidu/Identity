@@ -6,4 +6,5 @@ This section depicts how to suspend a user. Once you the user is suspended, they
 Security Administrator
 
 ## Steps
+1. 
 
