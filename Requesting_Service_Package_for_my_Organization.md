@@ -7,6 +7,7 @@ Security Administrator
 1. Log in to CIS.
 2. Click the **My Organization** menu and select **Request a Service Package for my Organization**.
 ![](rspo-2.png)
+3. 
 
 
 
