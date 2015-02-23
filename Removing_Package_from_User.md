@@ -9,6 +9,7 @@ Security Administrator.
 3. Click the **view service packages** tab.
 4. Select the package that has been suspended.
 ![](prpu-4.png)
+5. Under service package status section, click the Permanently Remove Service Package button.
 
 
 
