@@ -12,7 +12,7 @@ Security Administrator.
 5. Under the **service package status** section, click the **Permanently Remove Service Package** button.    
 ![](prpu-5.png)
 6. Enter the removal reason and click **Continue**. To notify the user, check the box at the bottom.
-
+![](prpu-6.png)
 
 
 
