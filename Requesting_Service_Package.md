@@ -11,5 +11,5 @@ A user with basic user role and above
 4. Select the desired service package by clicking the **Request** button.
 ![](rs-4.png)
 5. Review the details of the package you are requesting, enter the request reason, and click Continue.
-
+![](rs-5.png)
 
