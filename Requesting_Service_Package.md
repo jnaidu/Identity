@@ -12,4 +12,5 @@ A user with basic user role and above
 ![](rs-4.png)
 5. Review the details of the package you are requesting, enter the request reason, and click Continue.
 ![](rs-5.png)
+6. 
 
