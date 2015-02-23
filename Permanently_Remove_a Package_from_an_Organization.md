@@ -7,3 +7,5 @@ If you remove a package at the organization level, the package grant for the use
 * Security Administrator
 * Service Administrator
 
+## Steps
+1. 
