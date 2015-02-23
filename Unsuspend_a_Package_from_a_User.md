@@ -14,3 +14,4 @@ Security Administrator
 5. Under the **service package status** section, click the **Unsuspend Service Package** button.
 ![](upu-5.png)
 6. Enter the unsuspension reason and click the **Continue** button.
+![](upu-6.png)
