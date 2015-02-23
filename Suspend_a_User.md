@@ -13,4 +13,7 @@ Security Administrator
 4. Enter a suspension reason, and click the **Yes, Suspend User** button.
 ![](su-4.png)
 
+## Result
+You have successfully suspended a user.
+
 
