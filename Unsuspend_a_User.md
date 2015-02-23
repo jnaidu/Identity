@@ -1,6 +1,6 @@
 # Unsuspend a User
 ## Description
-This section depicts how to suspend a user. Once you the user is suspended, they won't be able to log into CIS.
+This section depicts how to unsuspend a suspended user. Once you the user is unsuspended, they will be able to log into CIS.
 
 ##Who can perform this function?
 Security Administrator
