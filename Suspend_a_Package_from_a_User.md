@@ -9,4 +9,5 @@ This section depicts how to suspend a package from a user.
 2. Search and select the desired user.
 3. Click the **view service packages** tab.
 ![](spu-3.png)
+4. Select the service package you wish to suspend.
 
