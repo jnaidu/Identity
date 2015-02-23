@@ -10,6 +10,6 @@ A user with basic user role and above
 ![](rs-3.png)
 4. Select the desired service package by clicking the **Request** button.
 ![](rs-4.png)
-5. 
+5. Review the details of the package you are requesting, enter the request reason, and click Continue.
 
 
