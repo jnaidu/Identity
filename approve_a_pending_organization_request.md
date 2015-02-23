@@ -1,3 +1,3 @@
 # Approve a Pending Organization Request
-## Who can perform this operation? Security Administrator.
+## Who can perform this function? Security Administrator.
 
