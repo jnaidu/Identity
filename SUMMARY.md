@@ -11,4 +11,5 @@
 * [Suspend a Package from an Organization](Suspend_a_Package_from_an_Organization.md)
 * [Permanently Remove a Package from an Organization](Permanently_Remove_a Package_from_an_Organization.md)
 * [Suspend a Package from a User](Suspend_a_Package_from_a_User.md)
+* [Unsuspend a Package from a User](Unsuspend_a_Package_from_a_User.md)
 
