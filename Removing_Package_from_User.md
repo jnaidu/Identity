@@ -4,4 +4,10 @@ This section illustrates how to permanently remove the user’s access to the se
 ## Who can perform this function?
 Security Administrator.
 ##Steps
+1. Log in to CIS.
+2. Search and select the desired user.
+3. Click the view service packages tab.
+4. Select the package that has been suspended.
+
+
 
