@@ -1,5 +1,6 @@
 # Approve a Pending User Request
-## Who can perform this function? Security Administrator.
+## Who can perform this function?
+Security Administrator.
 ## Steps:
 1. Log in to CIS.
 2. Click the **Administration** menu, select **pending requests** and then **user requests**. ![](approvependinguserrequest2.png)
