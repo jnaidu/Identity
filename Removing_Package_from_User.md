@@ -6,7 +6,7 @@ Security Administrator.
 ##Steps
 1. Log in to CIS.
 2. Search and select the desired user.
-3. Click the view service packages tab.
+3. Click the **view service packages** tab.
 4. Select the package that has been suspended.
 
 
