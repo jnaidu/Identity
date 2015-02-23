@@ -2,5 +2,6 @@
 ## Description
 You can view and update your profile details, such as username, email address, phone number, company name, designation, and address details. These are the details that are provided by you during the registration process.
 ## Who can perform this function?
-Basic.
+* Basic user can only view and update their own profile.
+* Security Administrator can also view other user’s pending requests.
 ##Steps
