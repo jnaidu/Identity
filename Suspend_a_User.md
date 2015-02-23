@@ -11,6 +11,6 @@ Security Administrator
 3. Under the **user status** section, click **suspend user**.
 ![](su-3.png)
 4. Enter a suspension reason, and click the **Yes, Suspend User** button.
-
+![](su-4.png)
 
 
