@@ -6,5 +6,9 @@ To remove a user, you should first suspend the user.
 ## Who can perform this operation?
 Security Administrator
 ##Steps
+1. Log into CIS.
+2. Search for the suspended user.
+3. Under the **user status** section, click **Permanently Remove User**.
+
 
 
