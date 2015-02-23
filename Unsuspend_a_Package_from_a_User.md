@@ -2,7 +2,7 @@
 ## Description
 This section depicts how to Unsuspend the user’s access to the service package
 ##Who can perform this function?
-* Security Administrator
+Security Administrator
 
 ## Steps
 1. Log into CIS.
