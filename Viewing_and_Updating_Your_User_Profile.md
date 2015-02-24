@@ -8,4 +8,8 @@ You can view and update your profile details, such as username, email address, p
 
 ##Steps
 1. Log into CIS. The home page appears.
-2. To view your available profile details, click the **My Profile** tab. The My Profile page appears.
+2. To view your available profile details, click the **My Profile** tab. The My Profile page appears. The left pane displays your available profile details, such as username, email address, phone number, company name, designation, and address details. The right pane displays the applications and communities that you are subscribed to.
+3. To update your profile details, click Edit and modify the details as necessary.
+
+##Result
+You have successfully updated your user profile
