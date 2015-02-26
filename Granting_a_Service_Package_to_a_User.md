@@ -10,7 +10,7 @@ Security Administrator
 1. Log into CIS.
 2. Search, and select a user within your organization hierarchy.   
 ![](gspo-2.png)
-3. Click **add service package**.
+3. Select the service packages you wish to add, and click **Add Checked**.
 ![](gspo-3.png)
 4. Select a package by clicking on the **Add** button.
 ![](gspo-4.png)
