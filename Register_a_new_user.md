@@ -12,4 +12,4 @@ New user
 ![](ur-2.png)
 3. Enter a userid and a password, and click **Continue Registration**.
 ![](ur-3.png)
-4. Review the details, and click 
+4. Review the details, and click **Submit Registration**.
