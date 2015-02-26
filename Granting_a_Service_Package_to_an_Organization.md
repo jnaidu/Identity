@@ -18,3 +18,4 @@ Security Administrator
 ![](gspo-5.png)
 
 ## Result
+You have successfully granted a service package to an organization.
