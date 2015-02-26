@@ -18,4 +18,4 @@ Security Administrator
 ![](gpu-5.png)
 
 ## Result
-You have successfully granted a service package to an organization.
+You have successfully granted a service package to a user.
