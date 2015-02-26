@@ -12,4 +12,4 @@ Invite a new organization within your organization hierarchy.
 ![](oi-1.png)
 3. Enter the email address, and click **Next**.
 ![](oi-2.png)
-4. 
+4. Review the information, and click **Continue**.
