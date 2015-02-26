@@ -14,5 +14,6 @@ Security Administrator
 ![](gspo-3.png)
 4. Select a package by clicking on the **Add** button.
 ![](gspo-4.png)
-5. Review the package details. Click **more info** to view services associated with the package.
+5. Review the package details. Click **more info** to view services associated with the package. Click Continue to successfully grant a package to this organization.
 ![](gspo-5.png)
+6. 
