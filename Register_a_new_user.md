@@ -14,3 +14,5 @@ New user
 ![](ur-3.png)
 4. Review the details, and click **Submit Registration**.
 
+## Results
+You have successfully registered for user access.
