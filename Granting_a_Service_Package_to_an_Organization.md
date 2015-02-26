@@ -1,7 +1,7 @@
 # Granting a Service Package to an Organization
 
 ## Description
-This section illustrates how a user can request a service package. A user will only be able to request service packages available for their organization.
+This section illustrates how to grant a service package to an organization.
 
 ## Who can perform this function?
 Security Administrator
