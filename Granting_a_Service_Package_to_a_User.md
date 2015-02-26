@@ -1,7 +1,7 @@
 # Granting a Service Package to a User
 
 ## Description
-This section illustrates how to grant a service package to an organization.
+This section illustrates how to grant a service package to a user.
 
 ## Who can perform this function?
 Security Administrator
