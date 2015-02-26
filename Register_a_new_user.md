@@ -11,4 +11,4 @@ New user
 2.	Enter the user information
 ![](ur-2.png)
 3. Enter a userid and a password.
-
+![](ur-3.png)
