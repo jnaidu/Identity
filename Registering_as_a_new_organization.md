@@ -19,4 +19,4 @@ New user
 6. Review the request, and click **Submit Registration**.
 
 ## Results
-You have successfully registered for user access.
+You have successfully registered for access as a new organization.
