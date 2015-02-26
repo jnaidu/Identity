@@ -13,7 +13,7 @@ Security Administrator
 3. Click **add service package**.
 ![](gpu-3.png)
 4. Select the service packages you wish to add, and click **Add Checked**.
-![](gspo-3.png)
+
 4. Select a package by clicking on the **Add** button.
 ![](gspo-4.png)
 5. Review the package details. Click **more info** to view services associated with the package. Click **Continue** to successfully grant a package to this organization.
