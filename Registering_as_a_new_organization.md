@@ -1,7 +1,7 @@
 # Registering as a new organization
 
 ## Description
-This section depicts the registration process for a new user.
+This section depicts the registration process for a new organization.
 
 ##Who can perform this function?
 New user
