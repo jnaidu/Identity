@@ -14,3 +14,6 @@ Invite a new organization within your organization hierarchy.
 ![](oi-2.png)
 4. Review the information, and click **Continue**.  
 ![](oi-3.png)
+
+## Result
+You have successfully invited a user to register for access.
