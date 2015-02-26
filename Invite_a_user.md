@@ -14,3 +14,6 @@ Invite a new user to register with an organization.
 ![](oi-2.png)
 4. Review the information, and click **Continue**.  
 ![](oi-3.png)
+
+## Result
+You have successfully invited an organization to register for access.
