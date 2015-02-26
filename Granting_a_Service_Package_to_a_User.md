@@ -15,7 +15,7 @@ Security Administrator
 4. Select the service packages you wish to add, and click **Add Checked**.
 ![](gpu-4.png)
 5. Review the package details. Click **more info** to view services associated with the package. Click **Continue** to successfully grant a package to the user.
-
+![](gpu-5.png)
 
 ## Result
 You have successfully granted a service package to an organization.
