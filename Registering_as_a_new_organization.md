@@ -11,7 +11,7 @@ New user
 2.	Click the **Accept Administrator Role** button.
 ![](or-2.png)
 3.	Enter your organization information, and click **Continue Registration**.
-![](ur-2.png)
+![](or-3.png)
 3. Enter a userid and a password, and click **Continue Registration**.
 ![](ur-3.png)
 4. Review the details, and click **Submit Registration**.
