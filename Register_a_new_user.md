@@ -9,3 +9,4 @@ New user
 ## Steps
 1.	Click on the invitation link received in the email. 
 2.	Enter the user information
+
