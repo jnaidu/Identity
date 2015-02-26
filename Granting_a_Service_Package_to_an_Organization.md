@@ -15,3 +15,4 @@ Security Administrator
 4. Select a package by clicking on the **Add** button.
 ![](gspo-4.png)
 5. Review the package details. Click **more info** to view services associated with the package.
+![](gspo-5.png)
