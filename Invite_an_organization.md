@@ -16,4 +16,4 @@ Invite a new organization within your organization hierarchy.
 ![](oi-3.png)
 
 ## Result
-You have successfully invited a user to register for access.
+You have successfully invited an organization to register for access.
