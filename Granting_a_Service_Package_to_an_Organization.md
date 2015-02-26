@@ -16,4 +16,5 @@ Security Administrator
 ![](gspo-4.png)
 5. Review the package details. Click **more info** to view services associated with the package. Click **Continue** to successfully grant a package to this organization.
 ![](gspo-5.png)
-6. 
+
+## Result
