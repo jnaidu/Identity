@@ -13,3 +13,4 @@ Security Administrator
 3. Click **add service package**.
 ![](gspo-3.png)
 4. Select a package by clicking on the **Add** button.
+![](gspo-4.png)
