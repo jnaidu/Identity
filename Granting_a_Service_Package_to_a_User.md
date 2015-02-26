@@ -14,9 +14,7 @@ Security Administrator
 ![](gpu-3.png)
 4. Select the service packages you wish to add, and click **Add Checked**.
 ![](gpu-4.png)
-4. Select a package by clicking on the **Add** button.
-![](gspo-4.png)
-5. Review the package details. Click **more info** to view services associated with the package. Click **Continue** to successfully grant a package to this organization.
+5. Review the package details. Click **more info** to view services associated with the package. Click **Continue** to successfully grant a package to the user.
 ![](gspo-5.png)
 
 ## Result
