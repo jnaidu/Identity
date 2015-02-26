@@ -16,7 +16,7 @@ New user
 ![](ur-2.png)
 5. Enter a userid and a password, and click **Continue Registration**.
 ![](ur-3.png)
-4. Review the details, and click **Submit Registration**.
+![](or-3.png)4. Review the details, and click **Submit Registration**.
 
 ## Results
 You have successfully registered for user access.
