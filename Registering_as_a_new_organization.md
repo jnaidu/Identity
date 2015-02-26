@@ -7,7 +7,8 @@ This section depicts the registration process for a new organization.
 New user
 
 ## Steps
-1.	Click on the invitation link received in the email. 
+1.	Click on the invitation link received in the email.
+2.	Click **Accept Administrator Role**.
 2.	Enter the user information, and click **Continue Registration**.
 ![](ur-2.png)
 3. Enter a userid and a password, and click **Continue Registration**.
