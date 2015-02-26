@@ -14,3 +14,4 @@ Security Administrator
 ![](gspo-3.png)
 4. Select a package by clicking on the **Add** button.
 ![](gspo-4.png)
+5. 
