@@ -1,10 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-* [Invite an organization](Invite_an_organization.md)
-* [Invite a user](Invite_a_user.md)
-* [Registering as a new user](Register_a_new_user.md)
-* [Registering as a new organization](Registering_as_a_new_organization.md)
+* [Invite an Organization](Invite_an_organization.md)
+* [Invite a User](Invite_a_user.md)
+* [Registering as a New User](Register_a_new_user.md)
+* [Registering as a New Organization](Registering_as_a_new_organization.md)
 * [Approving Pending Request](Approving_Pending_Request.md)
    * [Approve a Pending User Request](approve_a_pending_user_request.md)
    * [Approve a Pending Organization Request](approve_a_pending_organization_request.md)
