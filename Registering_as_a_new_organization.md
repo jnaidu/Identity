@@ -8,7 +8,7 @@ New user
 
 ## Steps
 1.	Click on the invitation link received in the email.
-2.	Click **Accept Administrator Role**.
+2.	Click the **Accept Administrator Role** button.
 ![](or-2.png)
 2.	Enter the user information, and click **Continue Registration**.
 ![](ur-2.png)
