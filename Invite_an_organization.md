@@ -10,3 +10,4 @@ Invite a new organization within your organization hierarchy.
 1. Log into CIS.
 2. Click the **Administration** menu, select **Invite**, and then Invite Divisions.
 ![](oi-1.png)
+3. 
