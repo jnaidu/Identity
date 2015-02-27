@@ -12,7 +12,6 @@ Security Administrator
 ![](ru-3.png)
 4. Enter a removal reason and click **Yes, Permanently Remove User**. To notify the user of their removal, check the box at the bottom.
 ![](ru-4.png)
+
 ##Result
 You have successfully removed a user.
-
-

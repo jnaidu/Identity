@@ -11,6 +11,7 @@ Security Administrator
 ![](rspo-3.png)
 4. Review the details of the package you are requesting, enter the request reason, and click **Continue**.
 ![](rspo-4.png)
+
 ##Result
 You have successfully submitted the service package request.
 
