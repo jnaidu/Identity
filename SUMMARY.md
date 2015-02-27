@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Invite an Organization](Invite_an_organization.md)
 * [Invite a User](Invite_a_user.md)
+* [Invite an Organization](Invite_an_organization.md)
 * [Registering as a New User](Register_a_new_user.md)
 * [Registering as a New Organization](Registering_as_a_new_organization.md)
 * [Approving Pending Request](Approving_Pending_Request.md)

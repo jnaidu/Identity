@@ -11,7 +11,7 @@ Use this option to change your existing password.
 2. Click the **My Profile** menu, and then select **view my profile**.
 3. Click **change user password**.
 ![](cp-3.png)
-4. Specify your current and new password, and submit the password by clicking the **Submit Password Change** button.   
+4. Specify your current and new password, and submit the password by clicking the **Submit Password Change** button.
 ![](cp-4.png)
 
 ##Result
