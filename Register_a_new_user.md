@@ -1,4 +1,4 @@
-# Register a new user
+# Registering a new user
 
 ## Description
 This section depicts the registration process for a new user.
