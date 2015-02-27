@@ -24,4 +24,5 @@
 * [Viewing and Updating Your User Profile](Viewing_and_Updating_Your_User_Profile.md)
 * [Resetting Password](Resetting_Password.md)
 * [Changing Password](Changing_Password.md)
+* [Specifying Password](Specifying_Password.md)
 
