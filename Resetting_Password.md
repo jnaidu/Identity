@@ -12,4 +12,5 @@ Security Administrator
 3. Click **My Profile**, and then **View my Profile**.
 4. Click **reset user password**.
 ![](rp-4.png)
+5. Review the steps, and click **Reset Password**.
 
