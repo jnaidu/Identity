@@ -14,8 +14,8 @@ A 'password specify' should only be used in exceptional situations. Password res
 2. If you’re a security administrator, search for the user, and view their profile. Else, click the **My Profile** menu, and then select **view my profile**.
 3. Click **specify user password**.     
 ![](sp-3.png)
-4. Verify the user’s identity, and submit the new password by clicking the **Submit Password Change** button.  
-![](cp-4.png)
+4. Verify the user’s identity, and submit the new password by clicking the **Submit Password Change** button.
+
 
 ##Result
 You have successfully changed your password.
