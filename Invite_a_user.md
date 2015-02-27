@@ -8,7 +8,7 @@ Invite a new user to register with an organization.
 
 ## Steps
 1. Log into CIS.
-2. Click the **Administration** menu, select **Invite**, and then Invite Users.
+2. Click the **Administration** menu, select **Invite**, and then **Invite Users**.
 ![](ui-2.png)
 3. Enter the email address, and click **Next**.
 ![](oi-2.png)
