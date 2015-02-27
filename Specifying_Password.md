@@ -18,4 +18,7 @@ A 'password specify' should only be used in exceptional situations. Password res
 ![](sp-4.png)
 
 ##Result
-You have successfully changed your password.
+1. You have successfully changed the password for the user.
+2. The user would have to log into CIS using the temporary password mentioned above.
+3. Create a new password to change the temporary password.
+![](rp-8.png)
