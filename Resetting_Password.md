@@ -15,6 +15,7 @@ Security Administrator
 5. Review the steps (Confirm the security answers with the user), and click **Reset Password**.
 6. The first HALF of the randomly generated password is displayed on the screen. The second HALF of the password is emailed to the registered email address. Password reset is successful.
 
+
 ##Result
 You have successfully reset 
 
