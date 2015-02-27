@@ -22,4 +22,5 @@
 * [Unsuspend a User](Unsuspend_a_User.md)
 * [View Pending Requests](View_Pending_Requests.md)
 * [Viewing and Updating Your User Profile](Viewing_and_Updating_Your_User_Profile.md)
+* [Resetting Password](Resetting_Password.md)
 
