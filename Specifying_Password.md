@@ -15,7 +15,7 @@ A 'password specify' should only be used in exceptional situations. Password res
 3. Click **specify user password**.     
 ![](sp-3.png)
 4. Verify the user’s identity, and submit the new password by clicking the **Submit Password Change** button.
-
+![](sp-4.png)
 
 ##Result
 You have successfully changed your password.
