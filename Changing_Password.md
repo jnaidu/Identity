@@ -13,3 +13,4 @@ Use this option to change your existing password.
 3. Click **change user password**.
 ![](cp-3.png)
 4. Specify your current and new password, and submit the password by clicking the **Submit Password Change** button.
+
