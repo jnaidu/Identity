@@ -13,4 +13,5 @@ Security Administrator
 4. Click **reset user password**.
 ![](rp-4.png)
 5. Review the steps (Confirm the security answers with the user), and click **Reset Password**.
+6. 
 
