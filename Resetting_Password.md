@@ -1,7 +1,7 @@
 # Resetting 
 
 ## Description
-This section illustrates how to request a service package for my organization.
+Use this option if you would like to change your existing password.
 
 ## Who can perform this operation?
 Security Administrator
