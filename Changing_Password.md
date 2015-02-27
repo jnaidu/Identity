@@ -7,5 +7,4 @@ Use this option to change your existing password.
 * Basic user
 * Security Administrator
 
-
 ##Steps
