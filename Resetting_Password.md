@@ -17,5 +17,6 @@ Security Administrator
 ![](rp-6.png)
 
 ##Result
-You have successfully reset 
+1. You have successfully reset the password for the user.
+2. The user would have to log into CIS using the temporary password mentioned above.
 
