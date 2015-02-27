@@ -3,6 +3,9 @@
 ## Description
 Use this option if the user doesn’t remember their old password, and doesn’t have access to their registered email address.
 
+### Note
+A 'password specify' should only be used in exceptional situations. Password reset is always the preferred method.
+
 ## Who can perform this operation?
 * Security Administrator
 
