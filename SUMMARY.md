@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [Definition of Terms](definition_of_terms/README.md)
+* [Identity Management Roles](identity_management_roles/README.md)
 * [Invite a User](Invite_a_user.md)
 * [Invite an Organization](Invite_an_organization.md)
 * [Registering as a New User](Register_a_new_user.md)
