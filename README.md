@@ -1,12 +1,12 @@
-# CIS Definition
-Covisint Identity Service (CIS) is a cloud based identity management tool which handles the functionalities like Identity Management, Authorization, Authentication, Identity Verification, Identity Broker, Security Token Services supporting various industry leading protocols like SAML 1.1/2.0, WS-FED 1.1, OPEN ID 2.0, OAuth 1.0/2.0.
+# CIS Overview
+Covisint Identity Services (CIS) is a cloud based identity management tool which handles the functionalities like Identity Management, Authorization, Authentication, Identity Verification, Identity Broker, Security Token Services supporting various industry leading protocols like SAML 1.1/2.0, WS-FED 1.1, OPEN ID 2.0, OAuth 1.0/2.0.
 
 It integrates complex systems reaching cloud applications, manage multiple IDs, passwords and integrates across a wide network of constituents, perform administration, and reporting.
 
 * Covisint CIS is a cloud-based Identity and Access Management application. Covisint centralizes and automates the process of securing and managing digital identities inside and outside your organization, enabling you to manage and control access to internal and cloud applications and information for customers, business partners and suppliers.
 * With a single connection to Covisint, customers can drastically reduce the burden of complex systems integration, management of multiple IDs and passwords, time-consuming reporting, security rules enforcement and help desk administration.
-Users can be easily administered with automated & configurable workflow management and provisioned to services, applications and content from sources across many sources, including cloud-based services utilized within a particular customer ecosystem.
-* CIS delivers a security framework for securely accessing resources across multiple secure domains, with a single authentication step and the ability to accept inbound federated identities as well as a mobile security framework.
+* Users can be easily administered with automated & configurable workflow management and provisioned to services, applications and content from sources across many sources, including cloud-based services utilized within a particular customer ecosystem.
+
 
 ## Core Functional Components
 1. ID Authenticator
@@ -16,15 +16,13 @@ Users can be easily administered with automated & configurable workflow manageme
     * Validates user against registry
     * Handles risk assessment
     * Supports multiple authentication mechanisms
-        * Applies risk assessment as one method to determine authentication mechanism
-    * Includes Service Provider functionality (IDP proxy model)
+    * Applies risk assessment as one method to determine authentication mechanism
 2. ID Broker
     * Secure communication of user information from the registry to an application
     * IDP Initiated Federation
     * SP Initiated Federation
-        * Includes Service Authorization Check
     * Name Identifier mapping for services
-    * Attribute Mapping for Services (SP/RP)
+    * Attribute Mapping for Services
 3. ID Provision
     * Service for provisioning / de-provisioning of access to services based on data stored in the Registry
     * Authorization management where supported by Service Provider or Service Package
