@@ -1,6 +1,6 @@
 {
     "variables": {
-        "title": "Covisint Identity Service",
-        "abstract": "Covisint Identity Service (CIS) provides a framework that includes the technology needed to support Identity and Access Management. It ensures that the right people gain access to the right resources, and provides a secure seamless flow of business processes."
+        "title": "Covisint Identity Services",
+        "abstract": "Covisint Identity Services (CIS) provides a framework that includes the technology needed to support Identity and Access Management. It ensures that the right people gain access to the right resources, and provides a secure seamless flow of business processes."
     }
 }
