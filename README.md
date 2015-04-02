@@ -3,7 +3,7 @@ Covisint Identity Services (CIS) is a cloud based identity management tool which
 
 It integrates complex systems reaching cloud applications, manage multiple IDs, passwords and integrates across a wide network of constituents, perform administration, and reporting.
 
-* Covisint CIS is a cloud-based Identity and Access Management application. Covisint centralizes and automates the process of securing and managing digital identities inside and outside your organization, enabling you to manage and control access to internal and cloud applications and information for customers, business partners and suppliers.
+* CIS is a cloud-based Identity and Access Management application. Covisint centralizes and automates the process of securing and managing digital identities inside and outside your organization, enabling you to manage and control access to internal and cloud applications and information for customers, business partners and suppliers.
 * With a single connection to Covisint, customers can drastically reduce the burden of complex systems integration, management of multiple IDs and passwords, time-consuming reporting, security rules enforcement and help desk administration.
 * Users can be easily administered with automated & configurable workflow management and provisioned to services, applications and content from sources across many sources, including cloud-based services utilized within a particular customer ecosystem.
 
