@@ -10,7 +10,7 @@ The Security Administrator role is granted to the user that registers a company 
 Service Administrators have the ability to grant service packages (i.e. applications) to companies that are registered on the platform.  These service packages act as the top-level authorization when trying to access applications, so you will often see at least one role for each application that is tied a service package. In the role map below, the Service Administrator is responsible for managing access grants to Serice Package A and Service Package B. The can grant the service packages to Company A and/or Company B.
 
 # Role Map
-![](idm_rolemap.png)
+![](cis_role_map.jpg)
 
 
 
